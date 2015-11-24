@@ -1,0 +1,17 @@
+{
+  "name": "cas-upc-node",
+  "version": "0.0.1",
+  "description": "Example use of Grand Master CAS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jaumem",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.0.0rc2",
+    "jade": "~0.27.2",
+    "grand_master_cas": "~0.2.3"
+  }
+}
